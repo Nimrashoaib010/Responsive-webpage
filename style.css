@@ -1,0 +1,93 @@
+
+body {
+  background: linear-gradient(to right, #FFEFBB ,#FFF6D9 ,#FFFFFD );
+
+}
+
+.container.xxl{
+  display: flex;
+  background: var(--gradient-light-gradient-30, linear-gradient(90deg, #ddcb8d 0%, #FFF 100%));
+  width: 100%;
+  padding: 0;
+}
+
+.navbar{
+  display: flex;
+  width: 100%;
+  padding-left: 3rem;
+  padding-right: 2rem;
+}
+  
+.logo{
+  display: flex;
+}
+
+.nav-list{
+  display: flex;
+  /* border: 1px solid blue; */
+}
+
+.nav-list ul{
+  list-style-type: none;
+}
+
+.nav-list ul li{
+  display: inline;
+  margin: 2.2rem;
+  color: #000;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  justify-content: space-around;
+}
+
+.content {
+  width:500px;
+}
+
+.wesave {
+  color: gray;
+  font-size: 20px;
+}
+
+.give-robots{
+  font-weight: bolder;
+  font-size: 50px;
+}
+
+.image>img {
+  width: 600px;
+  float: right;
+}
+
+.image{
+  padding: 30px;
+  width: 600px;} 
+
+  
+    .myButton {
+      background: linear-gradient(to right #FF584D,#FC8D3A,#FEC62E);
+      color: white; /* Text color of the button */
+      padding: 10px 20px; /* Padding inside the button */
+      border: none; /* No border around the button */
+      border-radius: 5px; /* Rounded corners for the button */
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+
+
+
+
+
+
+
+
